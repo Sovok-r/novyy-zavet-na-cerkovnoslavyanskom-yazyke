@@ -5,7 +5,7 @@
 
 Текст указанного источника был сличен с текстом из иных источников:
 1) Библия на церковнославянском языке // Проект "Печатный Дворъ". 2025. URL : https://www.pechatnyj-dvor.narod.ru/texts.html;
-2) Библия на церковнославянском языке // Ponomar Project. Aleksandr Andreev and others. 2025. URL : https://github.com/typiconman/ponomar/ tree/master/Ponomar/languages/cu/bible/elis.
+2) Библия на церковнославянском языке // Ponomar Project. Aleksandr Andreev and others. 2025. URL : https://github.com/typiconman/ponomar/tree/master/Ponomar/languages/cu/bible/elis.
 
 Разночтения указанных источников, а также другие обнаруженные опечатки и орфографические разночтения были выправлены по изданиям:
 1) Библия. – Санкт-Петербург : Синодальная тип., 1751.
